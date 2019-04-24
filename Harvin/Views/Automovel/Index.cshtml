@@ -1,0 +1,62 @@
+﻿@model IEnumerable<Harvin.Models.Automovel>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/TemplateAdmin.cshtml";
+
+}
+
+<h2>Index</h2>
+
+<p>
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.AutomovelMarca)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AutomovelModelo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AutomovelAno)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AutomovelCor)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AutomovelPlaca)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AutomovelRenavan)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.AutomovelMarca)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AutomovelModelo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AutomovelAno)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AutomovelCor)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AutomovelPlaca)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AutomovelRenavan)
+            </td>
+            <td>
+                @Html.ActionLink("Detalhes", "Detalhes", new { id = item.AutomovelId })
+            </td>
+        </tr>
+    }
+
+</table>

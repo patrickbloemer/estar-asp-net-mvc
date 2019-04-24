@@ -1,0 +1,77 @@
+﻿@model Harvin.Models.Usuario
+@{
+    Layout = null;
+    string mensagem = ViewBag.Mensagem;
+
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <!--Import Google Icon Font-->
+    <link href="~/content/materialize/css/materialize.min.css" rel="stylesheet" />
+    <link href="~/content/style.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!--Import materialize.css-->
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="vegas/vegas.min.css">
+    <!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+
+<body class="BodyCadastro">
+
+    <section id="Cadastrar">
+        <div class="container">
+            <div class="row">
+                <!--ESPAÇAMENTO-->
+                <div class="col s12 m12 l7">
+                    <br />
+                </div>
+
+                <!--FORMULARIO DE CADASTRO-->
+                <div class="col s12 m12 l5 ">
+                    <a href="@Url.Action("Index", "Home")"><h1>Harvin</h1></a>
+
+                    @using (Html.BeginForm()) {
+                        @Html.AntiForgeryToken()
+
+                        @Html.ValidationSummary(true, "", new { @class = "text-red" })
+
+                        <h5>Cadastre-se</h5>
+                        <label>Nome</label>
+                        @Html.EditorFor(model => model.UsuarioNome)
+                        <label>CPF</label>
+                        @Html.EditorFor(model => model.UsuarioCpf)
+
+                        <label>Endereço</label>
+                        @Html.EditorFor(model => model.UsuarioEndereco)
+
+                        <label>Telefone</label>
+                        @Html.EditorFor(model => model.UsuarioTelefone)
+
+                        <label>E-mail</label>
+                        @Html.EditorFor(model => model.UsuarioEmail)
+
+                        <label>Senha</label>
+                        @Html.EditorFor(model => model.UsuarioSenha)
+
+                        <br />
+                        @ViewBag.Mensagem; <br />
+                        <br />
+                        <input type="submit" name="btnCadastrar" value="Cadastrar" class="btn">
+                        @Html.ActionLink("Já possui sua conta?", "Login", "Usuario", new { @class = "btn" })
+
+                    }
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!--Import jQuery before materialize.js-->
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript" src="materialize/js/materialize.min.js"></script>
+
+
+</body>
+</html>

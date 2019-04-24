@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/content/Spacelab.min.css" rel="stylesheet" />
+</head>
+<body>
+    <nav class="navbar navbar-default">
+        <div class="container">
+            <div class="navbar-header">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Harvin", "Index", "Usuario")</li>
+                    <li>@Html.ActionLink("Automoveis", "SeusVeiculos", "Automovel")</li>
+                    <li>@Html.ActionLink("Comprar Saldo", "Saldo", "Usuario")</li>
+                    <li>@Html.ActionLink("Logoff", "Logoff", "Usuario", new { @class="btn red"})</li>
+                    </ul>
+            </div>  
+            
+            </div>
+    </nav>
+    <div class="container">
+        @RenderBody()
+    </div>
+    <hr />
+    <footer style="text-align:center">
+        <p>
+            &copy; @DateTime.Now.Year - Harvin
+        </p>
+    </footer>
+</body>
+</html>

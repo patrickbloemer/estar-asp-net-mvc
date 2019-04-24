@@ -1,0 +1,39 @@
+﻿@model Harvin.Models.Usuario
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/TemplateAdmin.cshtml";
+
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Usuario</h4>
+    <table class="table">
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.UsuarioNome)</th>
+            <th>@Html.DisplayNameFor(model => model.UsuarioCpf)</th>
+            <th>@Html.DisplayNameFor(model => model.UsuarioTelefone)</th>
+            <th>@Html.DisplayNameFor(model => model.UsuarioEndereco)</th>
+            <th>@Html.DisplayNameFor(model => model.UsuarioEmail)</th>
+            <th>@Html.DisplayNameFor(model => model.UsuarioSenha)</th>
+            <th>@Html.DisplayNameFor(model => model.UsuarioSaldo)</th>
+        </tr>
+
+        <tr>
+            <td>@Html.DisplayFor(model => model.UsuarioNome)</td>
+            <td>@Html.DisplayFor(model => model.UsuarioCpf)</td>
+            <td>@Html.DisplayFor(model => model.UsuarioTelefone)</td>
+            <td>@Html.DisplayFor(model => model.UsuarioEndereco)</td>
+            <td>@Html.DisplayFor(model => model.UsuarioEmail)</td>
+            <td>@Html.DisplayFor(model => model.UsuarioSenha)</td>
+            <td>@Html.DisplayFor(model => model.UsuarioSaldo)</td>
+        </tr>
+
+    </table>
+</div>
+<p>
+    @Html.ActionLink("Editar", "Editar", new { id = Model.UsuarioId }) |
+    @Html.ActionLink("Ver Todos", "Index")
+</p>

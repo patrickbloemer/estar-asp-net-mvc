@@ -1,0 +1,292 @@
+﻿@model Harvin.Models.Usuario
+
+@{
+    Layout = null;
+    int id = Model.UsuarioId;
+
+    //LISTA DE AUTOMOVEIS
+    List<Harvin.Models.Automovel> ListaAutomoveis = new List<Harvin.Models.Automovel>();
+    ListaAutomoveis = Harvin.DAO.AutomovelDAO.ListarAutomoveis();
+
+    //LISTA DE ESTARES
+    List<Harvin.Models.Estar> ListaEstares = new List<Harvin.Models.Estar>();
+    foreach (Harvin.Models.Estar temp in Harvin.DAO.EstarDAO.ListarEstares()) {
+        if (temp.EstarUsuario.UsuarioId == id) {
+            ListaEstares.Add(temp);
+        }
+    }
+    Harvin.Models.Usuario u = new Harvin.Models.Usuario();
+    u = Model;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <!--Import Google Icon Font-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!--Import materialize.css-->
+    <link href="~/content/materialize/css/materialize.min.css" rel="stylesheet" />
+    <link href="~/content/styleusuario.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet">
+    <!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+
+<body>
+    <div class="container">
+        <div class="row">
+
+            <div class="col s12 l2" style="text-align: center;">
+                <a href="@Url.Action("Index")" style="color: black;"><h1 style="margin: 0; font-size: 40px;">Harvin</h1></a>
+                @DateTime.Now
+                @Html.ActionLink("Logoff", "Logoff", "Usuario", new { @class = "btn red" })
+            </div>
+
+            <div class="col l6" style="color: white"> d</div>
+            
+            <div class="col s12 l4">
+                <h6>@Html.DisplayFor(model => model.UsuarioNome)</h6>
+                <h6>CPF: @Html.DisplayFor(model => model.UsuarioCpf)</h6>
+                <h6 style="color: green;">Saldo: R$@Html.DisplayFor(model => model.UsuarioSaldo)</h6>
+                @Html.ActionLink("Comprar Saldo", "Saldo", "", new { @class = "btn" })
+                <br />
+                @Html.ActionLink("Configurações", "Editar", new { id = id }, new { target = "_blank" })
+            </div>
+
+            <div class="indexUsuario">
+                <div class="col s12 Ativos" style="margin-top: 50px;">
+                    <!--CARROS ESTACIONADOS AGORA-->
+                    <h4>Estacionados agora</h4>
+                    <i class="material-icons">directions_car</i>
+                    <table class="bordered centered responsive-table">
+                        <tr>
+                            <th>
+                                EstaR ID
+                            </th>
+                            <th>
+                                Marca
+                            </th>
+                            <th>
+                                Modelo
+                            </th>
+                            <th>
+                                Ano
+                            </th>
+                            <th>
+                                Cor
+                            </th>
+                            <th>
+                                Placa
+                            </th>
+                            <th>
+                                Renavan
+                            </th>
+                            <th>
+                                De
+                            </th>
+                            <th>
+                                Até
+                            </th>
+                        </tr>
+                        @if (ListaEstares != null) {
+                            int i = 0;
+                            foreach (var item in ListaEstares) {
+                                if (item.EstarUsuario.UsuarioId == id) {
+                                    if (DateTime.Now > item.EstarDataHorario && DateTime.Now < item.EstarHorarioFinal) {
+                                        i++;
+                                        <tr>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.EstarId)
+                                            </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.EstarAutomovel.AutomovelMarca)
+                                            </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.EstarAutomovel.AutomovelModelo)
+                                            </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.EstarAutomovel.AutomovelAno)
+                                            </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.EstarAutomovel.AutomovelCor)
+                                            </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.EstarAutomovel.AutomovelPlaca)
+                                            </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.EstarAutomovel.AutomovelRenavan)
+                                            </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.EstarDataHorario)
+                                            </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.EstarHorarioFinal)
+                                            </td>
+                                        </tr>
+                                    }
+                                }
+                            }
+                            if (i == 0) {
+                                <p>Nenhum Carro Estacionado</p>
+                            }
+                        }
+                    </table>
+                    <br />
+                </div>
+
+                <!--AUTOMÓVEIS-->
+                <div class="col s12">
+                    <h4>Seus Veiculos</h4>
+                    <i class="material-icons">directions_car</i>
+                    <p style="color: red; font-weight: 800;">@ViewBag.Mensagem</p>
+                    <table class="bordered striped centered responsive-table">
+                        <tr>
+                            <th>
+                                Marca
+                            </th>
+                            <th>
+                                Modelo
+                            </th>
+                            <th>
+                                Ano
+                            </th>
+                            <th>
+                                Cor
+                            </th>
+                            <th>
+                                Placa
+                            </th>
+                            <th>
+                                Renavan
+                            </th>
+                            <th>
+                                Estacionar
+                            </th>
+                        </tr>
+                        @if (ListaAutomoveis != null) {
+                            foreach (var item in ListaAutomoveis) {
+                                if (item.AutomovelUsuarioId == id) {
+                                    <tr>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.AutomovelMarca)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.AutomovelModelo)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.AutomovelAno)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.AutomovelCor)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.AutomovelPlaca)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.AutomovelRenavan)
+                                        </td>
+                                        @if (Harvin.DAO.EstarDAO.VerificaCarroEstacionado(item.AutomovelId) == null) {
+                                            if (u.UsuarioSaldo < 2) {
+                                                <td style="color: red;">Saldo Insuficiente</td>
+                                            } else {
+                                            <td><a href="@Url.Action("Criar", "Estar", item)" class="btn green">Estacionar</a></td>
+                                                }
+                                            }else {
+                                            <td style="color: red;">Carro Estacionado</td>
+                                            }
+                                    </tr>
+                                }
+                            }
+                        } else {
+                            <h3>Você nao possui carros cadastrados</h3>
+                        }
+                    </table>
+                    <br />
+                    <a href="@Url.Action("SeusVeiculos", "Automovel")" class="btn blue">Gerencie Seus Veículos</a>
+                </div>
+
+
+                <!--HISTÓRICO-->
+                <br /><br />
+                <div class="col s12" style="margin-top: 75px;">
+                    <h4>Histórico</h4>
+                    <i class="material-icons">directions_car</i>
+                    <table class="bordered centered responsive-table">
+                        <tr>
+                            <th>
+                                EstaR ID
+                            </th>
+                            <th>
+                                Marca
+                            </th>
+                            <th>
+                                Modelo
+                            </th>
+                            <th>
+                                Ano
+                            </th>
+                            <th>
+                                Cor
+                            </th>
+                            <th>
+                                Placa
+                            </th>
+                            <th>
+                                Renavan
+                            </th>
+                            <th>
+                                Data
+                            </th>
+                            <th>
+                                Horario
+                            </th>
+                        </tr>
+                        @if (ListaEstares != null) {
+                            foreach (var item in ListaEstares) {
+                                if (item.EstarUsuario.UsuarioId == id) {
+                                    <tr>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.EstarId)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.EstarAutomovel.AutomovelMarca)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.EstarAutomovel.AutomovelModelo)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.EstarAutomovel.AutomovelAno)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.EstarAutomovel.AutomovelCor)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.EstarAutomovel.AutomovelPlaca)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.EstarAutomovel.AutomovelRenavan)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.EstarDataHorario)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.EstarHorarioFinal)
+                                        </td>
+                                    </tr>
+                                }
+                            }
+                        } else {
+                            <h5 class="orange-text">Você não possui histórico</h5>
+                        }
+                    </table>
+                    <br />
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--Import jQuery before materialize.js-->
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="~/scripts/materialize/materialize.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,200 @@
+body{
+  font-family: 'Josefin Sans';
+  font-weight: 100;
+  color: white;
+}
+
+#BemVindo{
+  text-align: center;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/BemVindo.jpeg');
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+a h1{
+    text-align: center;
+    color: black;
+}
+
+#BemVindo h1{
+  margin-top: 15%;
+}
+
+.btn{
+  background-color: rgba(255, 255, 255, 0.1);!important;
+  border: 1px solid white!important;
+  width: 200px;
+  margin-top: 25px;
+}
+
+.btn:hover{
+  background-color: rgba(255, 255, 255, 0.2);!important;
+  transition-property: all;
+  transition-duration: 0.2s;
+}
+
+a i{
+  color: white;
+  font-size: 70px!important;
+  margin-top: 15%;
+}
+
+
+
+
+/*QUEM SOMOS*/
+#QuemSomos{
+  color: black;
+  text-align: center;
+  padding: 15px;
+}
+
+
+hr{
+  width: 20%;
+  border: 1px solid orange;
+  margin-bottom: 35px;
+}
+
+#QuemSomos img{
+  width: 40%;
+}
+
+#Baloes{
+  margin-top: 15px;
+  text-align: center;
+}
+
+#Baloes img{
+  width: 110px;
+  height: 100px;
+}
+
+#Baloes p{
+  color: black;
+}
+
+
+/*PÁGINA LOGIN*/
+#Login{
+  color: white;
+  text-align: center;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5), rgba(0,0,0,0.5)), url('images/LoginWallpaper.jpg');
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#Login a{
+  text-decoration: none;
+  color: white!important;
+}
+
+#Login h1{
+    color: white;
+}
+
+input[type="text"],
+input[type="password"]{
+  text-align: center;
+  color: black;
+  border-bottom: 1px solid #17171C!important;
+}
+
+.login h5{
+  color: black;
+}
+
+form{
+  margin-top: 25px;
+  background-color: rgba(255,255,255,0.9)!important;
+  padding: 30px;
+  color: black;
+}
+
+form .btn{  
+  background-color: #17171C;
+  color: white;
+}
+
+form .btn:hover{
+  background-color: #17171C;
+  border-bottom: 2px solid orange!important;
+}
+
+
+
+/*PÁGINA CADASTRO*/
+.BodySaldo{
+    background-image: url('images/saldo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    color: black;
+}
+
+.BodyCadastro {
+    background-image: url('images/Cadastrobackground.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    color: black;
+}
+
+#Cadastrar .container{
+    width: 95%!important;
+}
+
+#Cadastrar .btn{
+    width: 100%!important;
+}
+
+#Cadastrar a h1{
+    color: white;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: -30px;
+}
+
+#Cadastrar form h5{
+    text-align: center;
+    margin-top: -20px;
+}
+
+#Cadastrar form input{
+    margin-top: -15px;
+}
+
+
+
+/*INDEX USUARIO*/
+.container{
+    text-align: center;
+    width: 95%;
+}
+.Saldo h5{
+    color: white;
+    background-color: limegreen;
+    border-radius: 45px;
+    text-align: center;
+    padding: 15px;
+}
+            
+.Saldo{
+    margin-top: 75px;
+}
+            
+.indexUsuario{
+    margin-top: 25px;
+}
+            
+.Historico{
+    margin-top: 50px;
+}
+            
+.Ativos{
+    margin-bottom: 50px;
+}

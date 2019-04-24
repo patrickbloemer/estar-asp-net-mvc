@@ -1,0 +1,77 @@
+﻿@model IEnumerable<Harvin.Models.Usuario>
+
+@{
+    Layout = "~/Views/Shared/TemplateForms.cshtml";
+
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>IndexConfig</title>
+</head>
+<body>
+    <p>
+        @Html.ActionLink("Criar", "Criar")
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.UsuarioNome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UsuarioCpf)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UsuarioTelefone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UsuarioEndereco)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UsuarioEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UsuarioSenha)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UsuarioSaldo)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model) {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UsuarioNome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UsuarioCpf)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UsuarioTelefone)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UsuarioEndereco)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UsuarioEmail)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UsuarioSenha)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UsuarioSaldo)
+                </td>
+                <td>
+                    @Html.ActionLink("Editar", "Editar", new { id = item.UsuarioId }) |
+                    @Html.ActionLink("Detalhes", "Detalhes", new { id = item.UsuarioId }) |
+                </td>
+            </tr>
+        }
+
+    </table>
+</body>
+</html>

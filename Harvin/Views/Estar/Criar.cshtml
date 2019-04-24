@@ -1,0 +1,61 @@
+﻿@model Harvin.Models.Estar
+
+@{
+    ViewBag.Title = "Estacionar Veículo";
+    Harvin.Models.Usuario u = new Harvin.Models.Usuario();
+    u = Harvin.DAO.UsuarioDAO.RetornarUsuarioLogado();
+
+    Harvin.Models.Estar estar = new Harvin.Models.Estar();
+
+    ViewBag.Estar = estar;
+    Layout = "~/Views/Shared/TemplateForms.cshtml";
+
+
+}
+
+<h2>Estacionar Veículo</h2>
+
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>Por favor, confirme as informações abaixo antes de prosseguir</h4>
+        <hr />
+
+        <table class="table">
+            <tr>
+                <th>Nome</th>
+                <th>CPF</th>
+                <th>Marca</th>
+                <th>Veículo</th>
+                <th>Placa</th>
+                <th>Renavan</th>
+                <th>Data</th>
+                <th>Horário Inicial</th>
+                <th>Horário Final</th>
+                <th>Novo Saldo</th>
+            </tr>
+
+            <tr>
+                <td>@u.UsuarioNome</td>
+                <td>@u.UsuarioCpf</td>
+                <td>@Html.DisplayFor(model => model.EstarAutomovel.AutomovelMarca)</td>
+                <td>@Html.DisplayFor(model => model.EstarAutomovel.AutomovelModelo)</td>
+                <td>@Html.DisplayFor(model => model.EstarAutomovel.AutomovelPlaca)</td>
+                <td>@Html.DisplayFor(model => model.EstarAutomovel.AutomovelRenavan)</td>
+                <td>@DateTime.Today.Date.ToShortDateString()</td>
+                <td>@DateTime.Now.ToShortTimeString()</td>
+                <td>@DateTime.Now.AddHours(1).ToShortTimeString()</td>
+                <td>R$@(u.UsuarioSaldo - 2)</td>
+            </tr>
+        </table>
+
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <a href="@Url.Action("Index", "Usuario")" class="btn btn-danger">Cancelar</a>
+                <input type="submit" value="Estacionar" class="btn btn-primary" />
+            </div>
+        </div>
+    </div>
+}

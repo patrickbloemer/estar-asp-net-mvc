@@ -1,0 +1,507 @@
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\ApplicationInsights.config
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\roslyn\csc.exe
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\roslyn\vbc.exe
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\roslyn\VBCSCompiler.exe
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\Harvin.dll.config
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\Harvin.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\Harvin.pdb
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\EntityFramework.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\EntityFramework.SqlServer.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\Microsoft.AI.Web.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\System.Web.Helpers.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\System.Web.Mvc.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\System.Web.Razor.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\System.Web.Webpages.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\System.Web.Webpages.Razor.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\EntityFramework.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\EntityFramework.SqlServer.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\Microsoft.AI.Web.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\System.Web.Razor.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\System.Web.Webpages.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\System.Web.Webpages.Razor.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\System.Web.Helpers.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\bin\System.Web.Mvc.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\obj\Debug\Harvin.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\obj\Debug\Harvin.pdb
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\obj\Debug\Harvin.Migrations.StartDatabase.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\obj\Debug\Harvin.csproj.GenerateResource.Cache
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\obj\Debug\Harvin.Migrations.AlteraçãoTipoData.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\obj\Debug\Harvin.csprojResolveAssemblyReference.cache
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\obj\Debug\Harvin.Migrations.VeriricaçãoDeErro.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\obj\Debug\Harvin.Migrations.RemoveCartao.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL\Harvin\Harvin\obj\Debug\Harvin.Migrations.Atualização.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\ApplicationInsights.config
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\roslyn\csc.exe
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\roslyn\vbc.exe
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\roslyn\VBCSCompiler.exe
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\Harvin.dll.config
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\Harvin.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\Harvin.pdb
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\EntityFramework.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\EntityFramework.SqlServer.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\Microsoft.AI.Web.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\System.Web.Helpers.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\System.Web.Mvc.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\System.Web.Razor.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\System.Web.Webpages.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\System.Web.Webpages.Razor.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\EntityFramework.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\EntityFramework.SqlServer.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\Microsoft.AI.Web.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\System.Web.Razor.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\System.Web.Webpages.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\System.Web.Webpages.Razor.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\System.Web.Helpers.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\bin\System.Web.Mvc.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\obj\Debug\Harvin.csprojResolveAssemblyReference.cache
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\obj\Debug\Harvin.Migrations.StartDatabase.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\obj\Debug\Harvin.Migrations.AlteraçãoTipoData.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\obj\Debug\Harvin.Migrations.VeriricaçãoDeErro.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\obj\Debug\Harvin.Migrations.RemoveCartao.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\obj\Debug\Harvin.Migrations.Atualização.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\obj\Debug\Harvin.csproj.GenerateResource.Cache
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\obj\Debug\Harvin.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - Copy (5)\Harvin\Harvin\obj\Debug\Harvin.pdb
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\ApplicationInsights.config
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\roslyn\csc.exe
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\roslyn\vbc.exe
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\roslyn\VBCSCompiler.exe
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\Harvin.dll.config
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\Harvin.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\Harvin.pdb
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\EntityFramework.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\EntityFramework.SqlServer.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\Microsoft.AI.Web.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\System.Web.Helpers.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\System.Web.Mvc.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\System.Web.Razor.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\System.Web.Webpages.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\System.Web.Webpages.Razor.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\EntityFramework.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\EntityFramework.SqlServer.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\Microsoft.AI.Web.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\System.Web.Razor.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\System.Web.Webpages.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\System.Web.Webpages.Razor.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\System.Web.Helpers.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\bin\System.Web.Mvc.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\obj\Debug\Harvin.Migrations.StartDatabase.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\obj\Debug\Harvin.Migrations.AlteraçãoTipoData.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\obj\Debug\Harvin.Migrations.VeriricaçãoDeErro.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\obj\Debug\Harvin.Migrations.RemoveCartao.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\obj\Debug\Harvin.Migrations.Atualização.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\obj\Debug\Harvin.csproj.GenerateResource.Cache
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\obj\Debug\Harvin.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\obj\Debug\Harvin.pdb
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\obj\Debug\Harvin.Migrations.CreateTableLoginAdmin.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\obj\Debug\Harvin.Migrations.Addtablehistorico.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\obj\Debug\Harvin.Migrations.AtualizaçãoGeralDobanco.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST\Harvin\Harvin\obj\Debug\Harvin.csprojResolveAssemblyReference.cache
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\ApplicationInsights.config
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\roslyn\csc.exe
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\roslyn\vbc.exe
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\roslyn\VBCSCompiler.exe
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\Harvin.dll.config
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\Harvin.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\Harvin.pdb
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\EntityFramework.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\EntityFramework.SqlServer.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\Microsoft.AI.Web.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\System.Web.Helpers.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\System.Web.Mvc.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\System.Web.Razor.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\System.Web.Webpages.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\System.Web.Webpages.Razor.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\EntityFramework.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\EntityFramework.SqlServer.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\Microsoft.AI.Web.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\System.Web.Razor.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\System.Web.Webpages.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\System.Web.Webpages.Razor.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\System.Web.Helpers.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\System.Web.Mvc.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\obj\Debug\Harvin.Migrations.StartDatabase.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\obj\Debug\Harvin.Migrations.AlteraçãoTipoData.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\obj\Debug\Harvin.Migrations.VeriricaçãoDeErro.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\obj\Debug\Harvin.Migrations.RemoveCartao.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\obj\Debug\Harvin.Migrations.Atualização.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\obj\Debug\Harvin.Migrations.CreateTableLoginAdmin.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\obj\Debug\Harvin.Migrations.Addtablehistorico.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\obj\Debug\Harvin.Migrations.AtualizaçãoGeralDobanco.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\obj\Debug\Harvin.csproj.GenerateResource.Cache
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\obj\Debug\Harvin.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\RACHEL - LAST - Copy (3)\Harvin\Harvin\obj\Debug\Harvin.pdb
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\ApplicationInsights.config
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\roslyn\csc.exe
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\roslyn\vbc.exe
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\roslyn\VBCSCompiler.exe
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\Harvin.dll.config
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\Harvin.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\Harvin.pdb
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\EntityFramework.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\EntityFramework.SqlServer.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\Microsoft.AI.Web.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\System.Web.Helpers.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\System.Web.Mvc.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\System.Web.Razor.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\System.Web.Webpages.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\System.Web.Webpages.Razor.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\EntityFramework.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\EntityFramework.SqlServer.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\Microsoft.AI.Web.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\System.Web.Razor.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\System.Web.Webpages.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\System.Web.Webpages.Razor.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\System.Web.Helpers.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\bin\System.Web.Mvc.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\obj\Debug\Harvin.csprojResolveAssemblyReference.cache
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\obj\Debug\Harvin.Migrations.StartDatabase.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\obj\Debug\Harvin.Migrations.AlteraçãoTipoData.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\obj\Debug\Harvin.Migrations.VeriricaçãoDeErro.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\obj\Debug\Harvin.Migrations.RemoveCartao.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\obj\Debug\Harvin.Migrations.Atualização.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\obj\Debug\Harvin.Migrations.CreateTableLoginAdmin.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\obj\Debug\Harvin.Migrations.Addtablehistorico.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\obj\Debug\Harvin.Migrations.AtualizaçãoGeralDobanco.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\obj\Debug\Harvin.Migrations.AddAtt.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\obj\Debug\Harvin.csproj.GenerateResource.Cache
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\obj\Debug\Harvin.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\RACHEL - LAST - Copy (3)\Harvin\Harvin\obj\Debug\Harvin.pdb
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\ApplicationInsights.config
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\roslyn\csc.exe
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\roslyn\vbc.exe
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\roslyn\VBCSCompiler.exe
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\Harvin.dll.config
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\Harvin.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\Harvin.pdb
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\EntityFramework.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\EntityFramework.SqlServer.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\Microsoft.AI.Web.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\System.Web.Helpers.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\System.Web.Mvc.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\System.Web.Razor.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\System.Web.Webpages.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\System.Web.Webpages.Razor.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\EntityFramework.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\EntityFramework.SqlServer.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\Microsoft.AI.Web.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\System.Web.Razor.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\System.Web.Webpages.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\System.Web.Webpages.Razor.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\System.Web.Helpers.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\bin\System.Web.Mvc.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\obj\Debug\Harvin.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\obj\Debug\Harvin.pdb
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\obj\Debug\Harvin.Migrations.Start.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\obj\Debug\Harvin.csproj.GenerateResource.Cache
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\obj\Debug\Harvin.Migrations.Teste.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\obj\Debug\Harvin.Migrations.RemoçãoAtributoRua.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main\Harvin\Harvin\obj\Debug\Harvin.csprojResolveAssemblyReference.cache
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\ApplicationInsights.config
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\roslyn\csc.exe
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\roslyn\vbc.exe
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\roslyn\VBCSCompiler.exe
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\Harvin.dll.config
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\Harvin.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\Harvin.pdb
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\EntityFramework.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\EntityFramework.SqlServer.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\Microsoft.AI.Web.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\System.Web.Helpers.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\System.Web.Mvc.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\System.Web.Razor.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\System.Web.Webpages.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\System.Web.Webpages.Razor.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\EntityFramework.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\EntityFramework.SqlServer.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\Microsoft.AI.Web.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\System.Web.Razor.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\System.Web.Webpages.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\System.Web.Webpages.Razor.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\System.Web.Helpers.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\bin\System.Web.Mvc.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\obj\Debug\Harvin.csprojResolveAssemblyReference.cache
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\obj\Debug\Harvin.Migrations.Start.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\obj\Debug\Harvin.Migrations.Teste.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\obj\Debug\Harvin.Migrations.RemoçãoAtributoRua.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\obj\Debug\Harvin.csproj.GenerateResource.Cache
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\obj\Debug\Harvin.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\main - Copy (5)\Harvin\Harvin\obj\Debug\Harvin.pdb
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\ApplicationInsights.config
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\roslyn\csc.exe
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\roslyn\vbc.exe
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\roslyn\VBCSCompiler.exe
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\Harvin.dll.config
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\Harvin.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\Harvin.pdb
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\EntityFramework.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\EntityFramework.SqlServer.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\Microsoft.AI.Web.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\System.Web.Helpers.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\System.Web.Mvc.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\System.Web.Razor.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\System.Web.Webpages.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\System.Web.Webpages.Razor.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\EntityFramework.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\EntityFramework.SqlServer.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\Microsoft.AI.Web.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\System.Web.Razor.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\System.Web.Webpages.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\System.Web.Webpages.Razor.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\System.Web.Helpers.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\bin\System.Web.Mvc.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\obj\Debug\Harvin.csprojResolveAssemblyReference.cache
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\obj\Debug\Harvin.Migrations.Start.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\obj\Debug\Harvin.Migrations.Teste.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\obj\Debug\Harvin.Migrations.RemoçãoAtributoRua.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\obj\Debug\Harvin.csproj.GenerateResource.Cache
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\obj\Debug\Harvin.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\obj\Debug\Harvin.pdb
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\importnat\Harvin 1.0\Harvin\Harvin\obj\Debug\Harvin.Migrations.Renavan.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\ApplicationInsights.config
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\roslyn\csc.exe
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\roslyn\vbc.exe
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\roslyn\VBCSCompiler.exe
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\Harvin.dll.config
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\Harvin.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\Harvin.pdb
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\EntityFramework.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\EntityFramework.SqlServer.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\Microsoft.AI.Web.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\System.Web.Helpers.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\System.Web.Mvc.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\System.Web.Razor.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\System.Web.Webpages.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\System.Web.Webpages.Razor.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\EntityFramework.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\EntityFramework.SqlServer.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\Microsoft.AI.Web.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\System.Web.Razor.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\System.Web.Webpages.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\System.Web.Webpages.Razor.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\System.Web.Helpers.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\bin\System.Web.Mvc.xml
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\obj\Debug\Harvin.csprojResolveAssemblyReference.cache
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\obj\Debug\Harvin.Migrations.Start.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\obj\Debug\Harvin.Migrations.Teste.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\obj\Debug\Harvin.Migrations.RemoçãoAtributoRua.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\obj\Debug\Harvin.Migrations.Renavan.resources
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\obj\Debug\Harvin.csproj.GenerateResource.Cache
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\obj\Debug\Harvin.dll
+C:\Users\Patrick Cardoso\Google Drive\Universidade Positivo\7° Etapa\ASP.NET\ASP.NET - Patrick\Trabalho Final MVC\Harvin\Harvin\obj\Debug\Harvin.pdb

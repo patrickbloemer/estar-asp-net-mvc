@@ -1,0 +1,129 @@
+﻿@model Harvin.Models.Usuario
+
+@{
+    Layout = null;
+    int id = Model.UsuarioId;
+
+    List<Harvin.Models.Automovel> ListaAutomoveis = new List<Harvin.Models.Automovel>();
+    ListaAutomoveis = Harvin.DAO.AutomovelDAO.ListarAutomoveis();
+
+    List<Harvin.Models.Estar> ListaEstares = new List<Harvin.Models.Estar>();
+    ListaEstares = Harvin.DAO.EstarDAO.ListarEstares();
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <!--Import Google Icon Font-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!--Import materialize.css-->
+    <link href="~/content/materialize/css/materialize.min.css" rel="stylesheet" />
+    <link href="~/content/styleusuario.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet">
+    <!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+
+<body>
+    <div class="container">
+        <div class="row">
+
+            <div class="col s12 l2" style="text-align: center;">
+                <a href="@Url.Action("Index", "Usuario")" style="color: black;"><h1 style="margin: 0; font-size: 40px;">Harvin</h1></a>
+                @DateTime.Now
+                @Html.ActionLink("Logoff", "Logoff", "Usuario", string.Empty, new { @class = "btn red" })
+            </div>
+
+            <div class="col l6" style="color: white"> d</div>
+
+            <div class="col s12 l4">
+                <h6>@Html.DisplayFor(model => model.UsuarioNome)</h6>
+                <h6>CPF: @Html.DisplayFor(model => model.UsuarioCpf)</h6>
+                <h6 style="color: green;">Saldo: R$@Html.DisplayFor(model => model.UsuarioSaldo)</h6>
+                @Html.ActionLink("Comprar Saldo", "Saldo", "", new { @class = "btn" })
+                <br />
+                @Html.ActionLink("Configurações", "Editar", "Usuario", new { id = id }, new { target = "_blank" })
+            </div>
+
+            <div class="indexUsuario">
+                <!--AUTOMÓVEIS-->
+                <div class="col s12">
+                    <h4>Gerencie Seus Veiculos</h4>
+                    <i class="material-icons">directions_car</i>
+                    <br />
+                    @Html.ActionLink("Cadastrar Novo", "Criar", "", new { @class="btn"})
+                    <br /><br />
+                    <table class="bordered striped centered responsive-table">
+                        <tr>
+                            <th>
+                                Marca
+                            </th>
+                            <th>
+                                Modelo
+                            </th>
+                            <th>
+                                Ano
+                            </th>
+                            <th>
+                                Cor
+                            </th>
+                            <th>
+                                Placa
+                            </th>
+                            <th>
+                                Renavan
+                            </th>
+                            <th>
+                                Editar
+                            </th>
+                            <th>
+                                Remover
+                            </th>
+                        </tr>
+                        @if (ListaAutomoveis != null) {
+                            foreach (var item in ListaAutomoveis) {
+                                if (item.AutomovelUsuarioId == id) {
+                                    <tr>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.AutomovelMarca)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.AutomovelModelo)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.AutomovelAno)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.AutomovelCor)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.AutomovelPlaca)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.AutomovelRenavan)
+                                        </td>
+                                        <td>
+                                            @Html.ActionLink("Editar", "Editar", new { id = item.AutomovelId }, new { @class="btn orange"})
+                                        </td>
+                                        @if (Harvin.DAO.EstarDAO.VerificaCarroEstacionado(item.AutomovelId) == null) {
+                                            <td>@Html.ActionLink("Remover", "Delete", new { id = item.AutomovelId }, new { @class = "btn red" })</td>
+                                        } else {
+                                            <td style="color: red;">Carro Estacionado</td>
+                                        }
+                                    </tr>
+                                }
+                            }
+                        } else {
+                            <h3>Você nao possui carros cadastrados</h3>
+                        }
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--Import jQuery before materialize.js-->
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="~/scripts/materialize/materialize.min.js"></script>
+</body>
+</html>

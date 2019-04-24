@@ -1,0 +1,22 @@
+﻿
+@{
+    Layout = null;
+    List<Harvin.Models.Automovel> a = Harvin.DAO.AutomovelDAO.ListarAutomoveis();
+    Harvin.Models.Automovel auto = new Harvin.Models.Automovel();
+    auto = ViewBag.a;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div> 
+        @Html.DropDownList("ddl", new SelectList (a, "AutomovelId", "AutomovelModelo" ))
+        @Html.ActionLink("Link", "Resultado", "Index")
+    </div>
+</body>
+</html>

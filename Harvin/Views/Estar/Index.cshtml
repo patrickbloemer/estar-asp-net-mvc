@@ -1,0 +1,50 @@
+﻿@model IEnumerable<Harvin.Models.Estar>
+
+@{
+    ViewBag.Title = "Estares";
+    Layout = "~/Views/Shared/TemplateAdmin.cshtml";
+
+}
+
+<h2>Estares</h2>
+
+<p>
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.EstarDataHorario)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EstarHorarioFinal)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EstarUsuario)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EstarAutomovel)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.EstarDataHorario)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EstarHorarioFinal)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EstarUsuario.UsuarioId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EstarAutomovel.AutomovelId)
+            </td>
+            <td>
+                @Html.ActionLink("Detalhes", "Detalhes", new { id = item.EstarId })
+            </td>
+        </tr>
+    }
+
+</table>

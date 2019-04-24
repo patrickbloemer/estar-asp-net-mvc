@@ -1,0 +1,36 @@
+/*INDEX USUARIO*/
+.container{
+    text-align: center;
+    width: 95%;
+}
+.Saldo h5{
+    color: white;
+    background-color: limegreen;
+    border-radius: 45px;
+    text-align: center;
+    padding: 15px;
+}
+            
+.Saldo{
+    margin-top: 75px;
+}
+            
+.indexUsuario{
+    margin-top: 25px;
+}
+            
+.Historico{
+    margin-top: 50px;
+}
+            
+.Ativos{
+    margin-bottom: 50px;
+}
+
+th{
+    text-align: center;
+}
+
+h1 a{
+    color: black!important;
+}

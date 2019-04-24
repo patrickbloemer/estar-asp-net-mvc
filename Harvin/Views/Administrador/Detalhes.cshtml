@@ -1,0 +1,37 @@
+﻿@model Harvin.Models.Administrador
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/TemplateAdmin.cshtml";
+}
+
+<h2>Detalhes</h2>
+
+<div>
+    <h4>Administrador</h4>
+    <hr />
+
+    <table class="table">
+        <tr>
+
+            <th>@Html.DisplayNameFor(model => model.AdministradorNome)</th>
+            <th>@Html.DisplayNameFor(model => model.AdministradorCpf)</th>
+            <th>@Html.DisplayNameFor(model => model.AdministradorTelefone)</th>
+            <th>@Html.DisplayNameFor(model => model.AdministradorEndereco)</th>
+            <th>@Html.DisplayNameFor(model => model.AdministradorEmail)</th>
+            <th>@Html.DisplayNameFor(model => model.AdministradorSenha)</th>
+        </tr>
+        <tr>
+            <td>@Html.DisplayFor(model => model.AdministradorNome)</td>
+            <td>@Html.DisplayFor(model => model.AdministradorCpf)</td>
+            <td>@Html.DisplayFor(model => model.AdministradorTelefone)</td>
+            <td>@Html.DisplayFor(model => model.AdministradorEndereco)</td>
+            <td>@Html.DisplayFor(model => model.AdministradorEmail)</td>
+            <td>@Html.DisplayFor(model => model.AdministradorSenha)</td>
+        </tr>
+    </table>
+</div>
+<p>
+    @Html.ActionLink("Editar", "Editar", new { id = Model.AdministradorId }, new { @class = "btn btn-warning btn-sm" })
+    @Html.ActionLink("Voltar para Index", "Index", "Administrador", new { @class = "btn btn-default btn-sm" })
+</p>

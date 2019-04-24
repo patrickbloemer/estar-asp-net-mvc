@@ -1,0 +1,36 @@
+﻿@model Harvin.Models.Estar
+
+@{
+    ViewBag.Title = "Detalhes - Estar";
+    Layout = "~/Views/Shared/TemplateAdmin.cshtml";
+
+}
+
+<h2>Detalhes</h2>
+
+<div>
+    <h4>Estar</h4>
+    <table class="table">
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.EstarDataHorario)</th>
+            <th>@Html.DisplayNameFor(model => model.EstarHorarioFinal)</th>
+            <th>
+                @Html.DisplayNameFor(model => model.EstarUsuario)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EstarAutomovel)
+            </th>
+        </tr>
+
+        <tr>
+            <td>@Html.DisplayFor(model => model.EstarDataHorario)</td>
+            <td>@Html.DisplayFor(model => model.EstarHorarioFinal)</td>
+            <td>@Html.DisplayFor(model => model.EstarUsuario.UsuarioId)</td>
+            <td>@Html.DisplayFor(model => model.EstarAutomovel.AutomovelId)</td>
+
+        </tr>
+    </table>
+</div>
+<p>
+    @Html.ActionLink("Voltar para os Estares", "Index")
+</p>

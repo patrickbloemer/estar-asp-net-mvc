@@ -1,0 +1,56 @@
+﻿@model Harvin.Models.Usuario
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <!--Import Google Icon Font-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!--Import materialize.css-->
+    <link href="~/content/materialize/css/materialize.min.css" rel="stylesheet" />
+    <link href="~/content/style.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="vegas/vegas.min.css">
+    <!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+
+<body>
+
+    <section id="Login">
+        <div class="row">
+            <!--ESPAÇAMENTO ESQUERDA-->
+            <div class="col s12 m12 l8">
+                <br />
+            </div>
+
+            <!--FORMULARIO DE LOGIN-->
+            <div class="col s12 m12 l4">
+                <a href="@Url.Action("index", "Home")"><h1>Harvin</h1></a>
+                <h5>Login</h5>
+                @using (Html.BeginForm()) {
+                    @Html.AntiForgeryToken()
+
+                    @Html.ValidationSummary(true, "", new { @class = "text-red"})
+                    
+                    <label>CPF</label>
+                        @Html.EditorFor(model => model.UsuarioCpf)
+
+                    <label>Senha</label>
+                    @Html.PasswordFor(model => model.UsuarioSenha)
+
+                    <input type="submit" name="btnEntrar" value="Entrar" class="btn"/>
+                    @Html.ActionLink("Cadastrar", "Cadastro", "Usuario", new { @class = "btn"})
+                }
+            </div>
+        </div>
+    </section>
+
+    <!--Import jQuery before materialize.js-->
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="~/scripts/materialize/materialize.min.js"></script>
+</body>
+</html>
